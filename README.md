@@ -19,7 +19,7 @@ curl --request GET \
   --url 'https://eu1.app.sysdig.com/secure/vulnerability/v1beta1/sboms?assetId=sha256:c276a3cc04187ca2e291256688a44a9b5db207762d14f21091b470f9c53794e2&assetType=container-image' | jq
  ```
 
-##Output
+## Output
 
  ```bash
 {
